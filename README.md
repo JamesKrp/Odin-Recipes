@@ -1,1 +1,3 @@
 # Odin-Recipes
+This, idek what it is. Basically wanted to learn html lmao.
+Learning Git as well...
